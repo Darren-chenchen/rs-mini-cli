@@ -2,6 +2,7 @@
 
 ```
 npm i -g rs-mini-cli
+rs-mini-cli init 项目名
 ```
 
 # 新建 js 组件模板
