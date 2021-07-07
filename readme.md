@@ -20,3 +20,10 @@ rs-mini-cli js 文件名 文件路径
 rs-mini-cli js test /src/pages
 
 ```
+
+# 新建模块
+
+```
+ rs-mini-cli module 模块名 模块上层路径
+ rs-mini-cli module test src/pages
+```
